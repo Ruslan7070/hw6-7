@@ -52,3 +52,6 @@ s.execute("SELECT * FROM student_db")
 print(s.fetchall())
 db.commit()
 db.close()
+
+
+
